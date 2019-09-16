@@ -1,8 +1,6 @@
-import com.alibaba.fastjson.JSON;
+package t03_leetcode;
 
-import javax.swing.plaf.BorderUIResource;
-import java.util.ArrayList;
-import java.util.List;
+import com.alibaba.fastjson.JSON;
 
 /**
  * @description: TODO 此题没有解出来，看答案的，好好消化
